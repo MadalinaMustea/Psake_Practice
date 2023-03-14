@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\madalina.mustea\\HelloWorld\\HelloWorld.csproj": {}
+    "C:\\Users\\madalina.mustea\\psake\\Psake_Practice\\HelloWorld\\HelloWorld.csproj": {}
   },
   "projects": {
-    "C:\\Users\\madalina.mustea\\HelloWorld\\HelloWorld.csproj": {
+    "C:\\Users\\madalina.mustea\\psake\\Psake_Practice\\HelloWorld\\HelloWorld.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\madalina.mustea\\HelloWorld\\HelloWorld.csproj",
+        "projectUniqueName": "C:\\Users\\madalina.mustea\\psake\\Psake_Practice\\HelloWorld\\HelloWorld.csproj",
         "projectName": "HelloWorld",
-        "projectPath": "C:\\Users\\madalina.mustea\\HelloWorld\\HelloWorld.csproj",
+        "projectPath": "C:\\Users\\madalina.mustea\\psake\\Psake_Practice\\HelloWorld\\HelloWorld.csproj",
         "packagesPath": "C:\\Users\\madalina.mustea\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\madalina.mustea\\HelloWorld\\obj\\",
+        "outputPath": "C:\\Users\\madalina.mustea\\psake\\Psake_Practice\\HelloWorld\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\madalina.mustea\\AppData\\Roaming\\NuGet\\NuGet.Config",
