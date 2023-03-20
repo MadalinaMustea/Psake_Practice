@@ -1,0 +1,6 @@
+C:\Users\madalina.mustea\ASPNetCore\publish\appsettings.Development.json
+C:\Users\madalina.mustea\ASPNetCore\publish\appsettings.json
+C:\Users\madalina.mustea\ASPNetCore\publish\Api.dll
+C:\Users\madalina.mustea\ASPNetCore\publish\Api.deps.json
+C:\Users\madalina.mustea\ASPNetCore\publish\Api.runtimeconfig.json
+C:\Users\madalina.mustea\ASPNetCore\publish\Api.pdb
